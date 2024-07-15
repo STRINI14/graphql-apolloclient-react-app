@@ -1,0 +1,15 @@
+.characters{
+    display:flex
+}
+
+.characters-content{
+    margin-left: 2rem;
+}
+
+.characters-episode {
+    margin-top: 2rem;
+}
+
+.episode{
+    margin: 8px 0;
+}

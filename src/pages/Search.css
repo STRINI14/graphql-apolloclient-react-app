@@ -1,0 +1,13 @@
+.search{
+    margin-left: 20px;
+    background-color: cornflowerblue;
+    color: white;
+    height: 30px;
+    width: 70px;
+    cursor: pointer;
+}
+
+.text{
+    height: 30px;
+    width: 300px;
+}
